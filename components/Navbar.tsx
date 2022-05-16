@@ -8,7 +8,7 @@ import styles from '../styles/Navbar.module.scss'
 const menus = [
     { id: 1, path: '/', title: 'Home' },
     { id: 2, path: '/users', title: 'Users' },
-    { id: 3, path: '/contacts', title: 'Contacts' }
+    { id: 3, path: '/posts', title: 'Posts' }
 
 ]
 const Navbar: FC = () => {

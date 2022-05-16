@@ -1,7 +1,7 @@
 import { FC } from 'react';
 import { GetServerSideProps } from "next";
-import { usersType } from '../../types'
 import Head from 'next/head';
+import { usersType } from '../../types'
 import UserInfo from '../../components/UserInfo';
 
 
